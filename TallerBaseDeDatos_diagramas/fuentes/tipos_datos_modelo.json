@@ -1,0 +1,152 @@
+{
+  "RECINTO": {
+    "id_recinto": "bigint",
+    "nombre": "varchar(200)",
+    "tipo_recinto": "varchar(30)",
+    "calle": "varchar(200)",
+    "numero": "varchar(20)",
+    "comuna": "varchar(200)",
+    "ciudad": "varchar(200)",
+    "capacidad": "integer"
+  },
+  "ARTISTA": {
+    "id_artista": "bigint",
+    "nombre_artistico": "varchar(200)",
+    "tipo_acto": "varchar(30)"
+  },
+  "EVENTO": {
+    "codigo_proyecto": "varchar(30)",
+    "id_recinto": "bigint",
+    "nombre": "varchar(200)",
+    "tipo_show": "varchar(30)",
+    "fecha_show": "date",
+    "aforo_plan": "integer",
+    "estado": "varchar(30)"
+  },
+  "EVENTO_ARTISTA": {
+    "codigo_proyecto": "varchar(30)",
+    "id_artista": "bigint",
+    "orden_presentacion": "integer",
+    "honorario_estimado_clp": "numeric(18,2)"
+  },
+  "CONTRAPARTE": {
+    "id_contraparte": "bigint",
+    "nombre": "varchar(200)",
+    "identificador": "varchar(200)",
+    "pais": "varchar(80)"
+  },
+  "PERSONA_NATURAL": {
+    "id_contraparte": "bigint",
+    "nombres": "varchar(200)",
+    "apellidos": "varchar(200)"
+  },
+  "ORGANIZACION": {
+    "id_contraparte": "bigint",
+    "razon_social": "varchar(200)"
+  },
+  "CATEGORIA": {
+    "id_categoria": "bigint",
+    "codigo": "varchar(200)",
+    "nombre": "varchar(200)",
+    "naturaleza": "varchar(30)"
+  },
+  "VERSION_PRESUPUESTO": {
+    "id_version": "bigint",
+    "codigo_proyecto": "varchar(30)",
+    "numero": "integer",
+    "fecha_corte": "timestamp",
+    "estado": "varchar(30)",
+    "preparado_por": "varchar(200)",
+    "validado_por": "varchar(200)",
+    "fecha_validacion": "timestamp"
+  },
+  "LINEA_PRESUPUESTO": {
+    "id_version": "bigint",
+    "nro_linea": "integer",
+    "id_categoria": "bigint",
+    "descripcion": "text",
+    "monto_clp": "numeric(18,2)"
+  },
+  "GASTO": {
+    "id_gasto": "bigint",
+    "codigo_proyecto": "varchar(30)",
+    "id_contraparte": "bigint",
+    "id_categoria": "bigint",
+    "fecha_incurrido": "date",
+    "monto_clp": "numeric(18,2)",
+    "tipo_gasto": "varchar(30)",
+    "referencia_contrato": "varchar(200)",
+    "descripcion": "text",
+    "estado": "varchar(30)",
+    "preparado_por": "varchar(200)",
+    "revisado_por": "varchar(200)",
+    "fecha_revision": "timestamp",
+    "motivo_anulacion": "text"
+  },
+  "REGISTRO_ORIGEN": {
+    "id_registro": "bigint",
+    "fuente": "varchar(30)",
+    "id_externo": "varchar(200)",
+    "nro_linea": "integer",
+    "codigo_recibido": "varchar(30)",
+    "codigo_proyecto": "varchar(30)",
+    "fecha_documento": "date",
+    "monto_documentado_clp": "numeric(18,2)",
+    "referencia_documento": "varchar(200)",
+    "estado": "varchar(30)",
+    "observacion": "text",
+    "cargado_por": "varchar(200)",
+    "revisado_por": "varchar(200)",
+    "id_gasto": "bigint"
+  },
+  "PAGO_GASTO": {
+    "id_pago": "bigint",
+    "id_gasto": "bigint",
+    "fecha_pago": "date",
+    "monto_clp": "numeric(18,2)",
+    "referencia": "varchar(200)",
+    "registrado_por": "varchar(200)"
+  },
+  "INGRESO": {
+    "id_ingreso": "bigint",
+    "codigo_proyecto": "varchar(30)",
+    "id_contraparte": "bigint",
+    "id_categoria": "bigint",
+    "fecha": "date",
+    "monto_reconocido_clp": "numeric(18,2)",
+    "concepto": "varchar(200)",
+    "estado": "varchar(30)",
+    "registrado_por": "varchar(200)"
+  },
+  "CORTE_VENTA": {
+    "id_corte_venta": "bigint",
+    "codigo_proyecto": "varchar(30)",
+    "id_ticketera": "bigint",
+    "instante": "timestamp",
+    "entradas_acumuladas": "integer",
+    "bruto_acumulado_clp": "numeric(18,2)",
+    "neto_estimado_acumulado_clp": "numeric(18,2)"
+  },
+  "LIQUIDACION": {
+    "id_liquidacion": "bigint",
+    "codigo_proyecto": "varchar(30)",
+    "id_ticketera": "bigint",
+    "fecha": "date",
+    "neto_final_clp": "numeric(18,2)",
+    "referencia": "varchar(200)"
+  },
+  "MOVIMIENTO_TICKETERA": {
+    "id_movimiento": "bigint",
+    "codigo_proyecto": "varchar(30)",
+    "id_ticketera": "bigint",
+    "fecha": "date",
+    "tipo": "varchar(30)",
+    "monto_clp": "numeric(18,2)",
+    "referencia": "varchar(200)",
+    "id_liquidacion": "bigint"
+  },
+  "CAUSA_DESVIACION_EVENTO": {
+    "codigo_proyecto": "varchar(30)",
+    "causa": "varchar(200)"
+  }
+}

@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="4130" height="1638" preserveAspectRatio="xMinYMin meet" viewBox="0 0 4130 1638" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="4130" height="1638"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-1638)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 965,938 L 965,1250 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 965,1250 L 1030,1250 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1030,1250 L 1030,1280 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 956,938 L 965,954 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 965,938 L 965,954 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 974,938 L 965,954 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="965.0" cy="967.0" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 1039,1273 L 1021,1273 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1039,1257 L 1021,1257 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3100,1415 L 3100,938 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3109,1408 L 3091,1408 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="3100.0" cy="1392.0" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 3091,945 L 3109,945 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3091,961 L 3109,961 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 340,338 L 340,680 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 331,338 L 340,354 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 340,338 L 340,354 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 349,338 L 340,354 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="340.0" cy="367.0" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 349,673 L 331,673 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 349,657 L 331,657 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1720,338 L 1720,518 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1711,338 L 1720,354 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1720,338 L 1720,354 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1729,338 L 1720,354 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="1720.0" cy="367.0" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 1729,511 L 1711,511 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1729,495 L 1711,495 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3790,338 L 3790,812 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3790,812 L 3725,812 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3725,812 L 3725,842 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3781,338 L 3790,354 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3790,338 L 3790,354 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3799,338 L 3790,354 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="3790.0" cy="367.0" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 3734,835 L 3716,835 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3734,819 L 3716,819 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1960,1446 L 2140,1446 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2140,1446 L 2140,1459.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2140,1459.5 L 2170,1459.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1960,1455 L 1976,1446 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1960,1446 L 1976,1446 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1960,1437 L 1976,1446 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="1989.0" cy="1446.0" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 2163,1450.5 L 2163,1468.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2147,1450.5 L 2147,1468.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3550,876.666667 L 3370,876.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3370,876.666667 L 3370,846 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3370,846 L 3340,846 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3543,867.666667 L 3543,885.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="3527.0" cy="876.6666666666666" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 3347,855 L 3347,837 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3363,855 L 3363,837 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 580,792 L 760,792 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 760,792 L 760,831.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 760,831.666667 L 790,831.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 580,801 L 596,792 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 580,792 L 596,792 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 580,783 L 596,792 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="609.0" cy="792.0" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 783,822.666667 L 783,840.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 767,822.666667 L 767,840.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 580,232.5 L 760,232.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 760,232.5 L 760,246 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 760,246 L 790,246 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 580,241.5 L 596,232.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 580,232.5 L 596,232.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 580,223.5 L 596,232.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="609.0" cy="232.5" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 783,237 L 783,255 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 767,237 L 767,255 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1480,797.5 L 1300,797.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1300,797.5 L 1300,861.571429 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1300,861.571429 L 1270,861.571429 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1480,788.5 L 1464,797.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1480,797.5 L 1464,797.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1480,806.5 L 1464,797.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="1451.0" cy="797.5" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 1277,870.571429 L 1277,852.571429 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1293,870.571429 L 1293,852.571429 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2650,778.5 L 2830,778.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2830,778.5 L 2830,858.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2830,858.666667 L 2860,858.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2650,787.5 L 2666,778.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2650,778.5 L 2666,778.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2650,769.5 L 2666,778.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="2679.0" cy="778.5" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 2853,849.666667 L 2853,867.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2837,849.666667 L 2837,867.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2860,222.666667 L 2680,222.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2680,222.666667 L 2680,240.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2680,240.666667 L 2650,240.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2860,213.666667 L 2844,222.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2860,222.666667 L 2844,222.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2860,231.666667 L 2844,222.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="2831.0" cy="222.66666666666674" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 2657,249.666667 L 2657,231.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="2673.0" cy="240.66666666666674" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 1720,1388 L 1720,968 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1720,968 L 1095,968 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1095,968 L 1095,938 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1729,1388 L 1720,1372 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1720,1388 L 1720,1372 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1711,1388 L 1720,1372 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="1720.0" cy="1359.0" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 1086,945 L 1104,945 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1086,961 L 1104,961 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1480,711 L 1300,711 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1300,711 L 1300,258.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1300,258.666667 L 1270,258.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1480,702 L 1464,711 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1480,711 L 1464,711 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1480,720 L 1464,711 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="1451.0" cy="711.0" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 1277,267.666667 L 1277,249.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1293,267.666667 L 1293,249.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 580,1368.666667 L 760,1368.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 760,1368.666667 L 760,779.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 760,779.333333 L 790,779.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 580,1377.666667 L 596,1368.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 580,1368.666667 L 596,1368.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 580,1359.666667 L 596,1368.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="609.0" cy="1368.6666666666667" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 783,770.333333 L 783,788.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="767.0" cy="779.3333333333334" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 3100,338 L 3100,398 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3100,398 L 3770,398 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3770,398 L 3770,368 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3770,368 L 3855,368 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3855,368 L 3855,842 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3091,338 L 3100,354 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3100,338 L 3100,354 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3109,338 L 3100,354 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="3100.0" cy="367.0" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 3864,835 L 3846,835 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3864,819 L 3846,819 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1960,711 L 2140,711 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2140,711 L 2140,968 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2140,968 L 2830,968 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2830,968 L 2830,833.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2830,833.333333 L 2860,833.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1960,720 L 1976,711 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1960,711 L 1976,711 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1960,702 L 1976,711 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="1989.0" cy="711.0" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 2853,824.333333 L 2853,842.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2837,824.333333 L 2837,842.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2170,813.666667 L 1980,813.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1980,813.666667 L 1980,498 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1980,498 L 1450,498 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1450,498 L 1450,839.142857 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1450,839.142857 L 1270,839.142857 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2170,804.666667 L 2154,813.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2170,813.666667 L 2154,813.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2170,822.666667 L 2154,813.666667 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="2141.0" cy="813.6666666666666" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 1277,848.142857 L 1277,830.142857 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1293,848.142857 L 1293,830.142857 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 580,1253.333333 L 640,1253.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 640,1253.333333 L 640,808 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 640,808 L 610,808 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 610,808 L 610,624.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 610,624.5 L 1480,624.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 580,1262.333333 L 596,1253.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 580,1253.333333 L 596,1253.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 580,1244.333333 L 596,1253.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="609.0" cy="1253.3333333333335" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 1473,615.5 L 1473,633.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="1457.0" cy="624.5" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 2170,743.333333 L 2000,743.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2000,743.333333 L 2000,368 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2000,368 L 1320,368 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1320,368 L 1320,233.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1320,233.333333 L 1270,233.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2170,734.333333 L 2154,743.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2170,743.333333 L 2154,743.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2170,752.333333 L 2154,743.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="2141.0" cy="743.3333333333334" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 1277,242.333333 L 1277,224.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1293,242.333333 L 1293,224.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2170,219 L 1980,219 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1980,219 L 1980,118 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1980,118 L 1430,118 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1430,118 L 1430,778 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1430,778 L 1300,778 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1300,778 L 1300,816.714286 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1300,816.714286 L 1270,816.714286 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2170,210 L 2154,219 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2170,219 L 2154,219 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2170,228 L 2154,219 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="2141.0" cy="219.0" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 1277,825.714286 L 1277,807.714286 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1293,825.714286 L 1293,807.714286 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2650,197.333333 L 2830,197.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2830,197.333333 L 2830,758 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2830,758 L 3520,758 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3520,758 L 3520,869.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3520,869.333333 L 3550,869.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2650,206.333333 L 2666,197.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2650,197.333333 L 2666,197.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2650,188.333333 L 2666,197.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="2679.0" cy="197.33333333333326" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 3543,860.333333 L 3543,878.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3527,860.333333 L 3527,878.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2860,161.333333 L 2670,161.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2670,161.333333 L 2670,98 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2670,98 L 1340,98 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1340,98 L 1340,758 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1340,758 L 1300,758 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1300,758 L 1300,794.285714 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1300,794.285714 L 1270,794.285714 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 2860,152.333333 L 2844,161.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2860,161.333333 L 2844,161.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 2860,170.333333 L 2844,161.333333 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="2831.0" cy="161.33333333333326" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 1277,803.285714 L 1277,785.285714 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1293,803.285714 L 1293,785.285714 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3550,205.5 L 3360,205.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3360,205.5 L 3360,58 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3360,58 L 1360,58 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1360,58 L 1360,771.857143 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1360,771.857143 L 1270,771.857143 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3550,196.5 L 3534,205.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3550,205.5 L 3534,205.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3550,214.5 L 3534,205.5 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="3521.0" cy="205.5" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 1277,780.857143 L 1277,762.857143 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1293,780.857143 L 1293,762.857143 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3550,1473 L 3360,1473 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3360,1473 L 3360,1368 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3360,1368 L 1320,1368 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1320,1368 L 1320,749.428571 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 1320,749.428571 L 1270,749.428571 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.6;"/>
+			<path d="M 3550,1464 L 3534,1473 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3550,1473 L 3534,1473 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 3550,1482 L 3534,1473 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<ellipse cx="3521.0" cy="1473.0" rx="6.0" ry="6.0" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 1277,758.428571 L 1277,740.428571 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1293,758.428571 L 1293,740.428571 Z" style="stroke: rgb(18%,20%,21%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<rect x="100" y="1118" width="480" height="420" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="100" y="1504" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="252.4873046875" y="1516.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,3032) scale(1,-1)">REGISTRO_ORIGEN</text>
+			<path d="M 164,1504 L 164,1118 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 435,1504 L 435,1118 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="107" y="1485.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">PK</text>
+			<text x="171" y="1485.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">id_registro</text>
+			<text x="442" y="1485.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">bigint</text>
+			<text x="107" y="1458.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)"></text>
+			<text x="171" y="1458.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)">fuente</text>
+			<text x="442" y="1458.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)">varchar(30)</text>
+			<text x="107" y="1431.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2863) scale(1,-1)"></text>
+			<text x="171" y="1431.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2863) scale(1,-1)">id_externo</text>
+			<text x="442" y="1431.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2863) scale(1,-1)">varchar(200)</text>
+			<text x="107" y="1404.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2809) scale(1,-1)"></text>
+			<text x="171" y="1404.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2809) scale(1,-1)">nro_linea</text>
+			<text x="442" y="1404.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2809) scale(1,-1)">integer</text>
+			<text x="107" y="1377.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2755) scale(1,-1)"></text>
+			<text x="171" y="1377.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2755) scale(1,-1)">codigo_recibido?</text>
+			<text x="442" y="1377.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2755) scale(1,-1)">varchar(30)</text>
+			<text x="107" y="1350.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2701) scale(1,-1)">FK</text>
+			<text x="171" y="1350.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2701) scale(1,-1)">codigo_proyecto?</text>
+			<text x="442" y="1350.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2701) scale(1,-1)">varchar(30)</text>
+			<text x="107" y="1323.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2647) scale(1,-1)"></text>
+			<text x="171" y="1323.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2647) scale(1,-1)">fecha_documento</text>
+			<text x="442" y="1323.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2647) scale(1,-1)">date</text>
+			<text x="107" y="1296.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2593) scale(1,-1)"></text>
+			<text x="171" y="1296.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2593) scale(1,-1)">monto_documentado_clp</text>
+			<text x="442" y="1296.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2593) scale(1,-1)">numeric(18,2)</text>
+			<text x="107" y="1269.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2539) scale(1,-1)"></text>
+			<text x="171" y="1269.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2539) scale(1,-1)">referencia_documento</text>
+			<text x="442" y="1269.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2539) scale(1,-1)">varchar(200)</text>
+			<text x="107" y="1242.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2485) scale(1,-1)"></text>
+			<text x="171" y="1242.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2485) scale(1,-1)">estado</text>
+			<text x="442" y="1242.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2485) scale(1,-1)">varchar(30)</text>
+			<text x="107" y="1215.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2431) scale(1,-1)"></text>
+			<text x="171" y="1215.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2431) scale(1,-1)">observacion?</text>
+			<text x="442" y="1215.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2431) scale(1,-1)">text</text>
+			<text x="107" y="1188.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2377) scale(1,-1)"></text>
+			<text x="171" y="1188.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2377) scale(1,-1)">cargado_por</text>
+			<text x="442" y="1188.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2377) scale(1,-1)">varchar(200)</text>
+			<text x="107" y="1161.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2323) scale(1,-1)"></text>
+			<text x="171" y="1161.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2323) scale(1,-1)">revisado_por?</text>
+			<text x="442" y="1161.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2323) scale(1,-1)">varchar(200)</text>
+			<text x="107" y="1134.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2269) scale(1,-1)">FK</text>
+			<text x="171" y="1134.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2269) scale(1,-1)">id_gasto?</text>
+			<text x="442" y="1134.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2269) scale(1,-1)">bigint</text>
+			<rect x="790" y="1280" width="480" height="258" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="790" y="1504" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="989.5" y="1516.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,3032) scale(1,-1)">RECINTO</text>
+			<path d="M 854,1504 L 854,1280 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 1125,1504 L 1125,1280 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="797" y="1485.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">PK</text>
+			<text x="861" y="1485.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">id_recinto</text>
+			<text x="1132" y="1485.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">bigint</text>
+			<text x="797" y="1458.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)"></text>
+			<text x="861" y="1458.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)">nombre</text>
+			<text x="1132" y="1458.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)">varchar(200)</text>
+			<text x="797" y="1431.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2863) scale(1,-1)"></text>
+			<text x="861" y="1431.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2863) scale(1,-1)">tipo_recinto</text>
+			<text x="1132" y="1431.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2863) scale(1,-1)">varchar(30)</text>
+			<text x="797" y="1404.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2809) scale(1,-1)"></text>
+			<text x="861" y="1404.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2809) scale(1,-1)">calle</text>
+			<text x="1132" y="1404.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2809) scale(1,-1)">varchar(200)</text>
+			<text x="797" y="1377.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2755) scale(1,-1)"></text>
+			<text x="861" y="1377.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2755) scale(1,-1)">numero</text>
+			<text x="1132" y="1377.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2755) scale(1,-1)">varchar(20)</text>
+			<text x="797" y="1350.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2701) scale(1,-1)"></text>
+			<text x="861" y="1350.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2701) scale(1,-1)">comuna</text>
+			<text x="1132" y="1350.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2701) scale(1,-1)">varchar(200)</text>
+			<text x="797" y="1323.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2647) scale(1,-1)"></text>
+			<text x="861" y="1323.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2647) scale(1,-1)">ciudad</text>
+			<text x="1132" y="1323.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2647) scale(1,-1)">varchar(200)</text>
+			<text x="797" y="1296.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2593) scale(1,-1)"></text>
+			<text x="861" y="1296.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2593) scale(1,-1)">capacidad</text>
+			<text x="1132" y="1296.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2593) scale(1,-1)">integer</text>
+			<rect x="1480" y="1388" width="480" height="150" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="1480" y="1504" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="1639.984375" y="1516.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,3032) scale(1,-1)">EVENTO_ARTISTA</text>
+			<path d="M 1544,1504 L 1544,1388 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 1815,1504 L 1815,1388 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="1487" y="1485.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">PK/FK</text>
+			<text x="1551" y="1485.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">codigo_proyecto</text>
+			<text x="1822" y="1485.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">varchar(30)</text>
+			<text x="1487" y="1458.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)">PK/FK</text>
+			<text x="1551" y="1458.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)">id_artista</text>
+			<text x="1822" y="1458.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)">bigint</text>
+			<text x="1487" y="1431.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2863) scale(1,-1)"></text>
+			<text x="1551" y="1431.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2863) scale(1,-1)">orden_presentacion</text>
+			<text x="1822" y="1431.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2863) scale(1,-1)">integer</text>
+			<text x="1487" y="1404.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2809) scale(1,-1)"></text>
+			<text x="1551" y="1404.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2809) scale(1,-1)">honorario_estimado_clp</text>
+			<text x="1822" y="1404.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2809) scale(1,-1)">numeric(18,2)</text>
+			<rect x="2170" y="1415" width="480" height="123" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="2170" y="1504" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="2371.99609375" y="1516.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,3032) scale(1,-1)">ARTISTA</text>
+			<path d="M 2234,1504 L 2234,1415 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 2505,1504 L 2505,1415 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="2177" y="1485.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">PK</text>
+			<text x="2241" y="1485.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">id_artista</text>
+			<text x="2512" y="1485.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">bigint</text>
+			<text x="2177" y="1458.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)"></text>
+			<text x="2241" y="1458.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)">nombre_artistico</text>
+			<text x="2512" y="1458.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)">varchar(200)</text>
+			<text x="2177" y="1431.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2863) scale(1,-1)"></text>
+			<text x="2241" y="1431.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2863) scale(1,-1)">tipo_acto</text>
+			<text x="2512" y="1431.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2863) scale(1,-1)">varchar(30)</text>
+			<rect x="2860" y="1415" width="480" height="123" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="2860" y="1504" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="3008.97607421875" y="1516.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,3032) scale(1,-1)">PERSONA_NATURAL</text>
+			<path d="M 2924,1504 L 2924,1415 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 3195,1504 L 3195,1415 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="2867" y="1485.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">PK/FK</text>
+			<text x="2931" y="1485.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">id_contraparte</text>
+			<text x="3202" y="1485.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">bigint</text>
+			<text x="2867" y="1458.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)"></text>
+			<text x="2931" y="1458.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)">nombres</text>
+			<text x="3202" y="1458.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)">varchar(200)</text>
+			<text x="2867" y="1431.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2863) scale(1,-1)"></text>
+			<text x="2931" y="1431.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2863) scale(1,-1)">apellidos</text>
+			<text x="3202" y="1431.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2863) scale(1,-1)">varchar(200)</text>
+			<rect x="3550" y="1442" width="480" height="96" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="3550" y="1504" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="3656.46337890625" y="1516.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,3032) scale(1,-1)">CAUSA_DESVIACION_EVENTO</text>
+			<path d="M 3614,1504 L 3614,1442 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 3885,1504 L 3885,1442 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="3557" y="1485.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">PK/FK</text>
+			<text x="3621" y="1485.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">codigo_proyecto</text>
+			<text x="3892" y="1485.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2971) scale(1,-1)">varchar(30)</text>
+			<text x="3557" y="1458.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)">PK</text>
+			<text x="3621" y="1458.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)">causa</text>
+			<text x="3892" y="1458.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2917) scale(1,-1)">varchar(200)</text>
+			<rect x="100" y="680" width="480" height="258" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="100" y="904" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="226.4716796875" y="916.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1832) scale(1,-1)">VERSION_PRESUPUESTO</text>
+			<path d="M 164,904 L 164,680 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 435,904 L 435,680 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="107" y="885.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">PK</text>
+			<text x="171" y="885.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">id_version</text>
+			<text x="442" y="885.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">bigint</text>
+			<text x="107" y="858.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">FK</text>
+			<text x="171" y="858.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">codigo_proyecto</text>
+			<text x="442" y="858.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">varchar(30)</text>
+			<text x="107" y="831.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1663) scale(1,-1)"></text>
+			<text x="171" y="831.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1663) scale(1,-1)">numero</text>
+			<text x="442" y="831.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1663) scale(1,-1)">integer</text>
+			<text x="107" y="804.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1609) scale(1,-1)"></text>
+			<text x="171" y="804.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1609) scale(1,-1)">fecha_corte</text>
+			<text x="442" y="804.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1609) scale(1,-1)">timestamp</text>
+			<text x="107" y="777.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1555) scale(1,-1)"></text>
+			<text x="171" y="777.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1555) scale(1,-1)">estado</text>
+			<text x="442" y="777.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1555) scale(1,-1)">varchar(30)</text>
+			<text x="107" y="750.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1501) scale(1,-1)"></text>
+			<text x="171" y="750.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1501) scale(1,-1)">preparado_por</text>
+			<text x="442" y="750.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1501) scale(1,-1)">varchar(200)</text>
+			<text x="107" y="723.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1447) scale(1,-1)"></text>
+			<text x="171" y="723.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1447) scale(1,-1)">validado_por?</text>
+			<text x="442" y="723.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1447) scale(1,-1)">varchar(200)</text>
+			<text x="107" y="696.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1393) scale(1,-1)"></text>
+			<text x="171" y="696.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1393) scale(1,-1)">fecha_validacion?</text>
+			<text x="442" y="696.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1393) scale(1,-1)">timestamp</text>
+			<rect x="790" y="707" width="480" height="231" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="790" y="904" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="992.99365234375" y="916.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1832) scale(1,-1)">EVENTO</text>
+			<path d="M 854,904 L 854,707 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 1125,904 L 1125,707 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="797" y="885.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">PK</text>
+			<text x="861" y="885.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">codigo_proyecto</text>
+			<text x="1132" y="885.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">varchar(30)</text>
+			<text x="797" y="858.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">FK</text>
+			<text x="861" y="858.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">id_recinto</text>
+			<text x="1132" y="858.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">bigint</text>
+			<text x="797" y="831.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1663) scale(1,-1)"></text>
+			<text x="861" y="831.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1663) scale(1,-1)">nombre</text>
+			<text x="1132" y="831.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1663) scale(1,-1)">varchar(200)</text>
+			<text x="797" y="804.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1609) scale(1,-1)"></text>
+			<text x="861" y="804.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1609) scale(1,-1)">tipo_show</text>
+			<text x="1132" y="804.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1609) scale(1,-1)">varchar(30)</text>
+			<text x="797" y="777.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1555) scale(1,-1)"></text>
+			<text x="861" y="777.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1555) scale(1,-1)">fecha_show</text>
+			<text x="1132" y="777.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1555) scale(1,-1)">date</text>
+			<text x="797" y="750.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1501) scale(1,-1)"></text>
+			<text x="861" y="750.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1501) scale(1,-1)">aforo_plan</text>
+			<text x="1132" y="750.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1501) scale(1,-1)">integer</text>
+			<text x="797" y="723.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1447) scale(1,-1)"></text>
+			<text x="861" y="723.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1447) scale(1,-1)">estado</text>
+			<text x="1132" y="723.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1447) scale(1,-1)">varchar(30)</text>
+			<rect x="1480" y="518" width="480" height="420" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="1480" y="904" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="1688.49560546875" y="916.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1832) scale(1,-1)">GASTO</text>
+			<path d="M 1544,904 L 1544,518 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 1815,904 L 1815,518 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="1487" y="885.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">PK</text>
+			<text x="1551" y="885.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">id_gasto</text>
+			<text x="1822" y="885.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">bigint</text>
+			<text x="1487" y="858.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">FK</text>
+			<text x="1551" y="858.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">codigo_proyecto</text>
+			<text x="1822" y="858.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">varchar(30)</text>
+			<text x="1487" y="831.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1663) scale(1,-1)">FK</text>
+			<text x="1551" y="831.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1663) scale(1,-1)">id_contraparte</text>
+			<text x="1822" y="831.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1663) scale(1,-1)">bigint</text>
+			<text x="1487" y="804.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1609) scale(1,-1)">FK</text>
+			<text x="1551" y="804.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1609) scale(1,-1)">id_categoria</text>
+			<text x="1822" y="804.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1609) scale(1,-1)">bigint</text>
+			<text x="1487" y="777.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1555) scale(1,-1)"></text>
+			<text x="1551" y="777.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1555) scale(1,-1)">fecha_incurrido</text>
+			<text x="1822" y="777.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1555) scale(1,-1)">date</text>
+			<text x="1487" y="750.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1501) scale(1,-1)"></text>
+			<text x="1551" y="750.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1501) scale(1,-1)">monto_clp</text>
+			<text x="1822" y="750.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1501) scale(1,-1)">numeric(18,2)</text>
+			<text x="1487" y="723.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1447) scale(1,-1)"></text>
+			<text x="1551" y="723.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1447) scale(1,-1)">tipo_gasto</text>
+			<text x="1822" y="723.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1447) scale(1,-1)">varchar(30)</text>
+			<text x="1487" y="696.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1393) scale(1,-1)"></text>
+			<text x="1551" y="696.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1393) scale(1,-1)">referencia_contrato?</text>
+			<text x="1822" y="696.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1393) scale(1,-1)">varchar(200)</text>
+			<text x="1487" y="669.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1339) scale(1,-1)"></text>
+			<text x="1551" y="669.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1339) scale(1,-1)">descripcion</text>
+			<text x="1822" y="669.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1339) scale(1,-1)">text</text>
+			<text x="1487" y="642.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1285) scale(1,-1)"></text>
+			<text x="1551" y="642.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1285) scale(1,-1)">estado</text>
+			<text x="1822" y="642.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1285) scale(1,-1)">varchar(30)</text>
+			<text x="1487" y="615.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1231) scale(1,-1)"></text>
+			<text x="1551" y="615.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1231) scale(1,-1)">preparado_por</text>
+			<text x="1822" y="615.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1231) scale(1,-1)">varchar(200)</text>
+			<text x="1487" y="588.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1177) scale(1,-1)"></text>
+			<text x="1551" y="588.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1177) scale(1,-1)">revisado_por?</text>
+			<text x="1822" y="588.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1177) scale(1,-1)">varchar(200)</text>
+			<text x="1487" y="561.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1123) scale(1,-1)"></text>
+			<text x="1551" y="561.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1123) scale(1,-1)">fecha_revision?</text>
+			<text x="1822" y="561.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1123) scale(1,-1)">timestamp</text>
+			<text x="1487" y="534.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1069) scale(1,-1)"></text>
+			<text x="1551" y="534.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1069) scale(1,-1)">motivo_anulacion?</text>
+			<text x="1822" y="534.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1069) scale(1,-1)">text</text>
+			<rect x="2170" y="653" width="480" height="285" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="2170" y="904" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="2368.49365234375" y="916.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1832) scale(1,-1)">INGRESO</text>
+			<path d="M 2234,904 L 2234,653 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 2505,904 L 2505,653 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="2177" y="885.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">PK</text>
+			<text x="2241" y="885.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">id_ingreso</text>
+			<text x="2512" y="885.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">bigint</text>
+			<text x="2177" y="858.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">FK</text>
+			<text x="2241" y="858.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">codigo_proyecto</text>
+			<text x="2512" y="858.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">varchar(30)</text>
+			<text x="2177" y="831.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1663) scale(1,-1)">FK</text>
+			<text x="2241" y="831.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1663) scale(1,-1)">id_contraparte</text>
+			<text x="2512" y="831.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1663) scale(1,-1)">bigint</text>
+			<text x="2177" y="804.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1609) scale(1,-1)">FK</text>
+			<text x="2241" y="804.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1609) scale(1,-1)">id_categoria</text>
+			<text x="2512" y="804.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1609) scale(1,-1)">bigint</text>
+			<text x="2177" y="777.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1555) scale(1,-1)"></text>
+			<text x="2241" y="777.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1555) scale(1,-1)">fecha</text>
+			<text x="2512" y="777.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1555) scale(1,-1)">date</text>
+			<text x="2177" y="750.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1501) scale(1,-1)"></text>
+			<text x="2241" y="750.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1501) scale(1,-1)">monto_reconocido_clp</text>
+			<text x="2512" y="750.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1501) scale(1,-1)">numeric(18,2)</text>
+			<text x="2177" y="723.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1447) scale(1,-1)"></text>
+			<text x="2241" y="723.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1447) scale(1,-1)">concepto</text>
+			<text x="2512" y="723.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1447) scale(1,-1)">varchar(200)</text>
+			<text x="2177" y="696.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1393) scale(1,-1)"></text>
+			<text x="2241" y="696.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1393) scale(1,-1)">estado</text>
+			<text x="2512" y="696.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1393) scale(1,-1)">varchar(30)</text>
+			<text x="2177" y="669.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1339) scale(1,-1)"></text>
+			<text x="2241" y="669.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1339) scale(1,-1)">registrado_por</text>
+			<text x="2512" y="669.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1339) scale(1,-1)">varchar(200)</text>
+			<rect x="2860" y="788" width="480" height="150" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="2860" y="904" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="3031.99462890625" y="916.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1832) scale(1,-1)">CONTRAPARTE</text>
+			<path d="M 2924,904 L 2924,788 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 3195,904 L 3195,788 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="2867" y="885.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">PK</text>
+			<text x="2931" y="885.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">id_contraparte</text>
+			<text x="3202" y="885.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">bigint</text>
+			<text x="2867" y="858.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)"></text>
+			<text x="2931" y="858.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">nombre</text>
+			<text x="3202" y="858.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">varchar(200)</text>
+			<text x="2867" y="831.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1663) scale(1,-1)"></text>
+			<text x="2931" y="831.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1663) scale(1,-1)">identificador</text>
+			<text x="3202" y="831.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1663) scale(1,-1)">varchar(200)</text>
+			<text x="2867" y="804.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1609) scale(1,-1)"></text>
+			<text x="2931" y="804.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1609) scale(1,-1)">pais</text>
+			<text x="3202" y="804.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1609) scale(1,-1)">varchar(80)</text>
+			<rect x="3550" y="842" width="480" height="96" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="3550" y="904" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="3720.49609375" y="916.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1832) scale(1,-1)">ORGANIZACION</text>
+			<path d="M 3614,904 L 3614,842 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 3885,904 L 3885,842 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="3557" y="885.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">PK/FK</text>
+			<text x="3621" y="885.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">id_contraparte</text>
+			<text x="3892" y="885.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1771) scale(1,-1)">bigint</text>
+			<text x="3557" y="858.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)"></text>
+			<text x="3621" y="858.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">razon_social</text>
+			<text x="3892" y="858.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1717) scale(1,-1)">varchar(200)</text>
+			<rect x="100" y="161" width="480" height="177" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="100" y="304" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="240.96923828125" y="316.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,632) scale(1,-1)">LINEA_PRESUPUESTO</text>
+			<path d="M 164,304 L 164,161 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 435,304 L 435,161 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="107" y="285.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">PK/FK</text>
+			<text x="171" y="285.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">id_version</text>
+			<text x="442" y="285.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">bigint</text>
+			<text x="107" y="258.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">PK</text>
+			<text x="171" y="258.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">nro_linea</text>
+			<text x="442" y="258.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">integer</text>
+			<text x="107" y="231.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">FK</text>
+			<text x="171" y="231.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">id_categoria</text>
+			<text x="442" y="231.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">bigint</text>
+			<text x="107" y="204.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)"></text>
+			<text x="171" y="204.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)">descripcion</text>
+			<text x="442" y="204.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)">text</text>
+			<text x="107" y="177.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,355) scale(1,-1)"></text>
+			<text x="171" y="177.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,355) scale(1,-1)">monto_clp</text>
+			<text x="442" y="177.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,355) scale(1,-1)">numeric(18,2)</text>
+			<rect x="790" y="188" width="480" height="150" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="790" y="304" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="976.9931640625" y="316.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,632) scale(1,-1)">CATEGORIA</text>
+			<path d="M 854,304 L 854,188 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 1125,304 L 1125,188 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="797" y="285.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">PK</text>
+			<text x="861" y="285.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">id_categoria</text>
+			<text x="1132" y="285.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">bigint</text>
+			<text x="797" y="258.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)"></text>
+			<text x="861" y="258.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">codigo</text>
+			<text x="1132" y="258.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">varchar(200)</text>
+			<text x="797" y="231.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)"></text>
+			<text x="861" y="231.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">nombre</text>
+			<text x="1132" y="231.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">varchar(200)</text>
+			<text x="797" y="204.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)"></text>
+			<text x="861" y="204.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)">naturaleza</text>
+			<text x="1132" y="204.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)">varchar(30)</text>
+			<rect x="1480" y="134" width="480" height="204" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="1480" y="304" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="1657.4833984375" y="316.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,632) scale(1,-1)">PAGO_GASTO</text>
+			<path d="M 1544,304 L 1544,134 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 1815,304 L 1815,134 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="1487" y="285.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">PK</text>
+			<text x="1551" y="285.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">id_pago</text>
+			<text x="1822" y="285.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">bigint</text>
+			<text x="1487" y="258.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">FK</text>
+			<text x="1551" y="258.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">id_gasto</text>
+			<text x="1822" y="258.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">bigint</text>
+			<text x="1487" y="231.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)"></text>
+			<text x="1551" y="231.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">fecha_pago</text>
+			<text x="1822" y="231.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">date</text>
+			<text x="1487" y="204.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)"></text>
+			<text x="1551" y="204.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)">monto_clp</text>
+			<text x="1822" y="204.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)">numeric(18,2)</text>
+			<text x="1487" y="177.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,355) scale(1,-1)"></text>
+			<text x="1551" y="177.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,355) scale(1,-1)">referencia</text>
+			<text x="1822" y="177.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,355) scale(1,-1)">varchar(200)</text>
+			<text x="1487" y="150.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,301) scale(1,-1)"></text>
+			<text x="1551" y="150.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,301) scale(1,-1)">registrado_por</text>
+			<text x="1822" y="150.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,301) scale(1,-1)">varchar(200)</text>
+			<rect x="2170" y="134" width="480" height="204" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="2170" y="304" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="2351.4912109375" y="316.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,632) scale(1,-1)">LIQUIDACION</text>
+			<path d="M 2234,304 L 2234,134 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 2505,304 L 2505,134 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="2177" y="285.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">PK</text>
+			<text x="2241" y="285.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">id_liquidacion</text>
+			<text x="2512" y="285.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">bigint</text>
+			<text x="2177" y="258.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">FK</text>
+			<text x="2241" y="258.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">codigo_proyecto</text>
+			<text x="2512" y="258.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">varchar(30)</text>
+			<text x="2177" y="231.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">FK</text>
+			<text x="2241" y="231.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">id_ticketera</text>
+			<text x="2512" y="231.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">bigint</text>
+			<text x="2177" y="204.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)"></text>
+			<text x="2241" y="204.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)">fecha</text>
+			<text x="2512" y="204.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)">date</text>
+			<text x="2177" y="177.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,355) scale(1,-1)"></text>
+			<text x="2241" y="177.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,355) scale(1,-1)">neto_final_clp</text>
+			<text x="2512" y="177.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,355) scale(1,-1)">numeric(18,2)</text>
+			<text x="2177" y="150.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,301) scale(1,-1)"></text>
+			<text x="2241" y="150.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,301) scale(1,-1)">referencia</text>
+			<text x="2512" y="150.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,301) scale(1,-1)">varchar(200)</text>
+			<rect x="2860" y="80" width="480" height="258" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="2860" y="304" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="2986.4892578125" y="316.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,632) scale(1,-1)">MOVIMIENTO_TICKETERA</text>
+			<path d="M 2924,304 L 2924,80 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 3195,304 L 3195,80 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="2867" y="285.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">PK</text>
+			<text x="2931" y="285.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">id_movimiento</text>
+			<text x="3202" y="285.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">bigint</text>
+			<text x="2867" y="258.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">FK</text>
+			<text x="2931" y="258.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">codigo_proyecto</text>
+			<text x="3202" y="258.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">varchar(30)</text>
+			<text x="2867" y="231.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">FK</text>
+			<text x="2931" y="231.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">id_ticketera</text>
+			<text x="3202" y="231.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">bigint</text>
+			<text x="2867" y="204.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)"></text>
+			<text x="2931" y="204.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)">fecha</text>
+			<text x="3202" y="204.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)">date</text>
+			<text x="2867" y="177.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,355) scale(1,-1)"></text>
+			<text x="2931" y="177.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,355) scale(1,-1)">tipo</text>
+			<text x="3202" y="177.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,355) scale(1,-1)">varchar(30)</text>
+			<text x="2867" y="150.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,301) scale(1,-1)"></text>
+			<text x="2931" y="150.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,301) scale(1,-1)">monto_clp</text>
+			<text x="3202" y="150.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,301) scale(1,-1)">numeric(18,2)</text>
+			<text x="2867" y="123.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,247) scale(1,-1)"></text>
+			<text x="2931" y="123.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,247) scale(1,-1)">referencia</text>
+			<text x="3202" y="123.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,247) scale(1,-1)">varchar(200)</text>
+			<text x="2867" y="96.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,193) scale(1,-1)">FK</text>
+			<text x="2931" y="96.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,193) scale(1,-1)">id_liquidacion?</text>
+			<text x="3202" y="96.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,193) scale(1,-1)">bigint</text>
+			<rect x="3550" y="107" width="480" height="231" rx="8" ry="8" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1.6; fill: rgb(89%,90%,92%); fill-rule: evenodd;"/>
+			<rect x="3550" y="304" width="480" height="34" style="stroke: rgb(25%,27%,29%); stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,85%,88%); fill-rule: evenodd;"/>
+			<text x="3723.48876953125" y="316.0" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,632) scale(1,-1)">CORTE_VENTA</text>
+			<path d="M 3614,304 L 3614,107 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 3885,304 L 3885,107 Z" style="stroke: rgb(61%,63%,67%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="3557" y="285.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">PK</text>
+			<text x="3621" y="285.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">id_corte_venta</text>
+			<text x="3892" y="285.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,571) scale(1,-1)">bigint</text>
+			<text x="3557" y="258.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">FK</text>
+			<text x="3621" y="258.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">codigo_proyecto</text>
+			<text x="3892" y="258.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,517) scale(1,-1)">varchar(30)</text>
+			<text x="3557" y="231.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">FK</text>
+			<text x="3621" y="231.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">id_ticketera</text>
+			<text x="3892" y="231.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,463) scale(1,-1)">bigint</text>
+			<text x="3557" y="204.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)"></text>
+			<text x="3621" y="204.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)">instante</text>
+			<text x="3892" y="204.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,409) scale(1,-1)">timestamp</text>
+			<text x="3557" y="177.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,355) scale(1,-1)"></text>
+			<text x="3621" y="177.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,355) scale(1,-1)">entradas_acumuladas</text>
+			<text x="3892" y="177.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,355) scale(1,-1)">integer</text>
+			<text x="3557" y="150.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,301) scale(1,-1)"></text>
+			<text x="3621" y="150.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,301) scale(1,-1)">bruto_acumulado_clp</text>
+			<text x="3892" y="150.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,301) scale(1,-1)">numeric(18,2)</text>
+			<text x="3557" y="123.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,247) scale(1,-1)"></text>
+			<text x="3621" y="123.5" style="font-family: Body; font-size: 16px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,247) scale(1,-1)">neto_estimado_acumulado_clp</text>
+			<text x="3892" y="123.5" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,247) scale(1,-1)">numeric(18,2)</text>
+			<rect x="2417.2158203125" y="956" width="135.568359375" height="24" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="2426.2158203125" y="963" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1926) scale(1,-1)">Tiene contraparte</text>
+			<rect x="1656.3857421875" y="486" width="117.228515625" height="24" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="1665.3857421875" y="493" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,986) scale(1,-1)">Corresponde a</text>
+			<rect x="1622.658935546875" y="356" width="74.68212890625" height="24" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="1631.658935546875" y="363" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,726) scale(1,-1)">Clasifica</text>
+			<rect x="1646.3857421875" y="106" width="117.228515625" height="24" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="1655.3857421875" y="113" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,226) scale(1,-1)">Corresponde a</text>
+			<rect x="3122.6552734375" y="746" width="104.689453125" height="24" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3131.6552734375" y="753" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,1506) scale(1,-1)">Comercializa</text>
+			<rect x="1946.3857421875" y="86" width="117.228515625" height="24" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="1955.3857421875" y="93" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,186) scale(1,-1)">Corresponde a</text>
+			<rect x="2301.3857421875" y="46" width="117.228515625" height="24" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="2310.3857421875" y="53" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,106) scale(1,-1)">Corresponde a</text>
+			<rect x="2269.30078125" y="1356" width="141.3984375" height="24" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="2278.30078125" y="1363" style="font-family: Body; font-size: 15px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,2726) scale(1,-1)">Explica desviación</text>
+			<text x="100" y="40" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,80) scale(1,-1)">PK = clave primaria   FK = clave foránea   ? = atributo opcional   | = uno   O = cero   pata de cuervo = muchos</text>
+			<text x="3631.7939453125" y="40" style="font-family: Body; font-size: 18px;fill: rgb(12%,14%,15%); stroke:none;" transform="translate(0,80) scale(1,-1)">18 tablas · 25 referencias · Tipos SQL propuestos</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="600" height="710" preserveAspectRatio="xMinYMin meet" viewBox="0 0 600 710" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="600" height="710"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-710)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="8" y="652" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="74.3203125" y="662.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1324) scale(1,-1)">Evento</text>
+			<path d="M 93,678 L 93,684 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="93.0" cy="692.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="56.30810546875" y="689.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1378) scale(1,-1)">codigo_proyecto</text>
+			<path d="M 56.308105,686 L 129.691895,686 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="422" y="652" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="486.65625" y="662.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1324) scale(1,-1)">Recinto</text>
+			<path d="M 507,678 L 507,684 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="507.0" cy="692.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="485.3203125" y="689.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1378) scale(1,-1)">id_recinto</text>
+			<path d="M 485.320312,686 L 528.679688,686 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 178,665 L 257,665 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 343,665 L 422,665 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="257 665, 300 680, 343 665, 300 650" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="284.489501953125" y="662.0" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1324) scale(1,-1)">Alberga</text>
+			<text x="202.691162109375" y="673.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1346) scale(1,-1)">(1,1)</text>
+			<text x="373.778076171875" y="673.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1346) scale(1,-1)">(0,N)</text>
+			<rect x="8" y="591" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="74.3203125" y="601.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1202) scale(1,-1)">Evento</text>
+			<path d="M 93,617 L 93,623 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="93.0" cy="631.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="56.30810546875" y="628.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1256) scale(1,-1)">codigo_proyecto</text>
+			<path d="M 56.308105,625 L 129.691895,625 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="422" y="591" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="489.99609375" y="601.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1202) scale(1,-1)">Artista</text>
+			<path d="M 507,617 L 507,623 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="507.0" cy="631.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="486.7119140625" y="628.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1256) scale(1,-1)">id_artista</text>
+			<path d="M 486.711914,625 L 527.288086,625 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 178,604 L 257,604 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 343,604 L 422,604 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="257 604, 300 619, 343 604, 300 589" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="281.989013671875" y="601.0" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1202) scale(1,-1)">Presenta</text>
+			<text x="201.778076171875" y="612.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1224) scale(1,-1)">(0,N)</text>
+			<text x="373.778076171875" y="612.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1224) scale(1,-1)">(0,N)</text>
+			<rect x="8" y="530" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="37.9658203125" y="540.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1080) scale(1,-1)">Versión presupuesto</text>
+			<path d="M 93,556 L 93,562 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="93.0" cy="570.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="70.20947265625" y="567.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1134) scale(1,-1)">id_version</text>
+			<path d="M 70.209473,564 L 115.790527,564 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="422" y="530" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="488.3203125" y="540.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1080) scale(1,-1)">Evento</text>
+			<path d="M 507,556 L 507,562 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="507.0" cy="570.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="470.30810546875" y="567.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1134) scale(1,-1)">codigo_proyecto</text>
+			<path d="M 470.308105,564 L 543.691895,564 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 178,543 L 257,543 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 343,543 L 422,543 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="257 543, 300 558, 343 543, 300 528" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="286.24072265625" y="540.0" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1080) scale(1,-1)">Asigna</text>
+			<text x="202.691162109375" y="551.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1102) scale(1,-1)">(1,1)</text>
+			<text x="373.778076171875" y="551.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1102) scale(1,-1)">(0,N)</text>
+			<rect x="8" y="469" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="12" y="473" width="162" height="18" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
+			<text x="43.294921875" y="479.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,958) scale(1,-1)">Línea presupuesto</text>
+			<path d="M 93,495 L 93,501 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="93.0" cy="509.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="72.4287109375" y="506.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1012) scale(1,-1)">nro_linea</text>
+			<path d="M 72.428711,503 L 113.571289,503 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 3, 2;"/>
+			<rect x="422" y="469" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="451.9658203125" y="479.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,958) scale(1,-1)">Versión presupuesto</text>
+			<path d="M 507,495 L 507,501 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="507.0" cy="509.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="484.20947265625" y="506.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1012) scale(1,-1)">id_version</text>
+			<path d="M 484.209473,503 L 529.790527,503 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 178,482 L 257,482 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 343,482 L 422,482 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="257 482, 300 497, 343 482, 300 467" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<polygon points="261 482, 300 493, 339 482, 300 471" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
+			<text x="281.989013671875" y="479.0" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,958) scale(1,-1)">Identifica</text>
+			<path d="M 178,479 L 257,479 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="202.691162109375" y="490.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,980) scale(1,-1)">(1,1)</text>
+			<text x="373.778076171875" y="490.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,980) scale(1,-1)">(0,N)</text>
+			<rect x="8" y="408" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="12" y="412" width="162" height="18" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
+			<text x="43.294921875" y="418.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,836) scale(1,-1)">Línea presupuesto</text>
+			<path d="M 93,434 L 93,440 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="93.0" cy="448.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="72.4287109375" y="445.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,890) scale(1,-1)">nro_linea</text>
+			<path d="M 72.428711,442 L 113.571289,442 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 3, 2;"/>
+			<rect x="422" y="408" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="480.984375" y="418.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,836) scale(1,-1)">Categoria</text>
+			<path d="M 507,434 L 507,440 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="507.0" cy="448.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="479.7587890625" y="445.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,890) scale(1,-1)">id_categoria</text>
+			<path d="M 479.758789,442 L 534.241211,442 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 178,421 L 257,421 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 343,421 L 422,421 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="257 421, 300 436, 343 421, 300 406" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="282.995361328125" y="418.0" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,836) scale(1,-1)">Clasifica</text>
+			<text x="202.691162109375" y="429.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,858) scale(1,-1)">(1,1)</text>
+			<text x="373.778076171875" y="429.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,858) scale(1,-1)">(0,N)</text>
+			<rect x="8" y="347" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="76.9921875" y="357.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,714) scale(1,-1)">Gasto</text>
+			<path d="M 93,373 L 93,379 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="93.0" cy="387.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="74.09619140625" y="384.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,768) scale(1,-1)">id_gasto</text>
+			<path d="M 74.096191,381 L 111.903809,381 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="422" y="347" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="488.3203125" y="357.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,714) scale(1,-1)">Evento</text>
+			<path d="M 507,373 L 507,379 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="507.0" cy="387.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="470.30810546875" y="384.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,768) scale(1,-1)">codigo_proyecto</text>
+			<path d="M 470.308105,381 L 543.691895,381 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 178,360 L 257,360 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 343,360 L 422,360 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="257 360, 300 375, 343 360, 300 345" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="286.24072265625" y="357.0" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,714) scale(1,-1)">Asigna</text>
+			<text x="202.691162109375" y="368.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,736) scale(1,-1)">(1,1)</text>
+			<text x="373.778076171875" y="368.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,736) scale(1,-1)">(0,N)</text>
+			<rect x="8" y="286" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="76.9921875" y="296.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,592) scale(1,-1)">Gasto</text>
+			<path d="M 93,312 L 93,318 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="93.0" cy="326.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="74.09619140625" y="323.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,646) scale(1,-1)">id_gasto</text>
+			<path d="M 74.096191,320 L 111.903809,320 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="422" y="286" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="475.3154296875" y="296.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,592) scale(1,-1)">Contraparte</text>
+			<path d="M 507,312 L 507,318 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="507.0" cy="326.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="475.03466796875" y="323.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,646) scale(1,-1)">id_contraparte</text>
+			<path d="M 475.034668,320 L 538.965332,320 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 178,299 L 257,299 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 343,299 L 422,299 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="257 299, 300 314, 343 299, 300 284" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="285.240966796875" y="296.0" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,592) scale(1,-1)">Vincula</text>
+			<text x="202.691162109375" y="307.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,614) scale(1,-1)">(1,1)</text>
+			<text x="373.778076171875" y="307.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,614) scale(1,-1)">(0,N)</text>
+			<rect x="8" y="225" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="76.9921875" y="235.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,470) scale(1,-1)">Gasto</text>
+			<path d="M 93,251 L 93,257 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="93.0" cy="265.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="74.09619140625" y="262.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,524) scale(1,-1)">id_gasto</text>
+			<path d="M 74.096191,259 L 111.903809,259 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="422" y="225" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="480.984375" y="235.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,470) scale(1,-1)">Categoria</text>
+			<path d="M 507,251 L 507,257 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="507.0" cy="265.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="479.7587890625" y="262.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,524) scale(1,-1)">id_categoria</text>
+			<path d="M 479.758789,259 L 534.241211,259 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 178,238 L 257,238 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 343,238 L 422,238 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="257 238, 300 253, 343 238, 300 223" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="282.995361328125" y="235.0" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,470) scale(1,-1)">Clasifica</text>
+			<text x="202.691162109375" y="246.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,492) scale(1,-1)">(1,1)</text>
+			<text x="373.778076171875" y="246.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,492) scale(1,-1)">(0,N)</text>
+			<rect x="8" y="164" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="52.3125" y="174.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,348) scale(1,-1)">Registro origen</text>
+			<path d="M 93,190 L 93,196 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="93.0" cy="204.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="69.6552734375" y="201.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,402) scale(1,-1)">id_registro</text>
+			<path d="M 69.655273,198 L 116.344727,198 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="422" y="164" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="488.3203125" y="174.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,348) scale(1,-1)">Evento</text>
+			<path d="M 507,190 L 507,196 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="507.0" cy="204.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="470.30810546875" y="201.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,402) scale(1,-1)">codigo_proyecto</text>
+			<path d="M 470.308105,198 L 543.691895,198 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 178,177 L 257,177 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 343,177 L 422,177 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="257 177, 300 192, 343 177, 300 162" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="286.24072265625" y="174.0" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,348) scale(1,-1)">Asigna</text>
+			<text x="202.691162109375" y="185.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,370) scale(1,-1)">(0,1)</text>
+			<text x="373.778076171875" y="185.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,370) scale(1,-1)">(0,N)</text>
+			<rect x="8" y="103" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="52.3125" y="113.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,226) scale(1,-1)">Registro origen</text>
+			<path d="M 93,129 L 93,135 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="93.0" cy="143.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="69.6552734375" y="140.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,280) scale(1,-1)">id_registro</text>
+			<path d="M 69.655273,137 L 116.344727,137 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="422" y="103" width="170" height="26" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="490.9921875" y="113.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,226) scale(1,-1)">Gasto</text>
+			<path d="M 507,129 L 507,135 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="507.0" cy="143.0" rx="80.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="488.09619140625" y="140.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,280) scale(1,-1)">id_gasto</text>
+			<path d="M 488.096191,137 L 525.903809,137 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 178,116 L 257,116 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 343,116 L 422,116 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="257 116, 300 131, 343 116, 300 101" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="276.988037109375" y="113.0" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,226) scale(1,-1)">Documenta</text>
+			<text x="202.691162109375" y="124.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,248) scale(1,-1)">(0,1)</text>
+			<text x="373.778076171875" y="124.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,248) scale(1,-1)">(0,N)</text>
+			<polygon points="259 51, 300 66, 341 51, 300 36" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="279.98779296875" y="48.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,96) scale(1,-1)">Presenta</text>
+			<path d="M 259,51 L 196,51 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="105.0" cy="51.0" rx="91.0" ry="14.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="60.80078125" y="48.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,96) scale(1,-1)">orden_presentacion</text>
+			<path d="M 341,51 L 394,51 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<ellipse cx="492.0" cy="51.0" rx="98.0" ry="14.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="438.63330078125" y="48.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,96) scale(1,-1)">honorario_estimado_clp</text>
+			<text x="151.0400390625" y="7.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,14) scale(1,-1)">El rombo inferior desarrolla los atributos del vínculo Evento–Artista.</text>
+		</g>
+	</g>
+</svg>

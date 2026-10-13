@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="600" height="740" preserveAspectRatio="xMinYMin meet" viewBox="0 0 600 740" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="600" height="740"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-740)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="8" y="8" width="584" height="724" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="12" y="17" width="193" height="687" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(98%,98%,98%); fill-rule: evenodd;"/>
+			<text x="59.98828125" y="684.0" style="font-family: Bold; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1368) scale(1,-1)">Área originadora</text>
+			<rect x="205" y="17" width="193" height="687" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="264.6689453125" y="684.0" style="font-family: Bold; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1368) scale(1,-1)">Contabilidad</text>
+			<rect x="398" y="17" width="193" height="687" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(98%,98%,98%); fill-rule: evenodd;"/>
+			<text x="466.9853515625" y="684.0" style="font-family: Bold; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1368) scale(1,-1)">Tesorería</text>
+			<text x="223.37255859375" y="715.0" style="font-family: Bold; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1430) scale(1,-1)">Productora de Eventos</text>
+			<ellipse cx="108.0" cy="660.0" rx="9.0" ry="9.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="37" y="602" width="142" height="39" rx="7" ry="7" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="60.3154296875" y="625.1" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1250) scale(1,-1)">T01 Registrar show</text>
+			<text x="73.450439453125" y="611.9" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1223) scale(1,-1)">y presupuesto</text>
+			<path d="M 108,651 L 108,641 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="108 641, 111 648, 105 648" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<rect x="37" y="540" width="142" height="37" rx="7" ry="7" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="75.899658203125" y="562.1" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1124) scale(1,-1)">T02 Entregar</text>
+			<text x="77.72314453125" y="548.9" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1097) scale(1,-1)">antecedente</text>
+			<path d="M 108,602 L 108,577 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="108 577, 111 584, 105 584" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<rect x="226" y="540" width="150" height="37" rx="7" ry="7" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="256.3662109375" y="555.5" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1111) scale(1,-1)">T03 Cargar origen</text>
+			<path d="M 179,559 L 226,559 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="226 559, 219 562, 219 556" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<rect x="226" y="482" width="150" height="37" rx="7" ry="7" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="268.292724609375" y="504.1" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1008) scale(1,-1)">T04 Resolver</text>
+			<text x="249.633544921875" y="490.90000000000003" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,981) scale(1,-1)">proyecto e integridad</text>
+			<path d="M 301,540 L 301,519 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="301 519, 304 526, 298 526" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<polygon points="273 441, 301 460, 329 441, 301 422" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="292.99609375" y="438.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,876) scale(1,-1)">G1</text>
+			<path d="M 301,482 L 301,460 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="301 460, 304 467, 298 467" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<rect x="32" y="420" width="152" height="40" rx="7" ry="7" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="74.68310546875" y="443.6" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,887) scale(1,-1)">T11 Registrar</text>
+			<text x="78.343505859375" y="430.40000000000003" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,860) scale(1,-1)">observación</text>
+			<path d="M 273,441 L 184,441 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="184 441, 191 438, 191 444" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="217.96923828125" y="449.0" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,898) scale(1,-1)">No</text>
+			<ellipse cx="108.0" cy="392.0" rx="10.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.4; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 108,420 L 108,402 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="108 402, 111 409, 105 409" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<rect x="226" y="358" width="150" height="37" rx="7" ry="7" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="268.598876953125" y="380.1" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,760) scale(1,-1)">T05 Conciliar</text>
+			<text x="267.97314453125" y="366.90000000000003" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,733) scale(1,-1)">antecedentes</text>
+			<path d="M 301,422 L 301,395 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="301 395, 304 402, 298 402" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="311.27587890625" y="406.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,812) scale(1,-1)">Sí</text>
+			<polygon points="273 320, 301 339, 329 320, 301 301" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="292.99609375" y="317.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,634) scale(1,-1)">G2</text>
+			<path d="M 301,358 L 301,339 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="301 339, 304 346, 298 346" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<rect x="226" y="232" width="150" height="40" rx="7" ry="7" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="253.613525390625" y="255.60000000000002" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,511) scale(1,-1)">T06 Preparar gasto</text>
+			<text x="253.919677734375" y="242.40000000000003" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,484) scale(1,-1)">o vincular existente</text>
+			<path d="M 273,320 L 212,320 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 212,320 L 212,253 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 212,253 L 226,253 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="226 253, 219 256, 219 250" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="214.490234375" y="330.0" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,660) scale(1,-1)">Existente</text>
+			<path d="M 329,320 L 389,320 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 389,320 L 389,253 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 389,253 L 376,253 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="376 253, 383 250, 383 256" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="346.9921875" y="330.0" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,660) scale(1,-1)">Nuevo</text>
+			<path d="M 301,301 L 301,288 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 301,288 L 194,288 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 194,288 L 194,441 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 194,441 L 184,441 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="184 441, 191 438, 191 444" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="263.2421875" y="287.0" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,574) scale(1,-1)">Duda</text>
+			<rect x="421" y="232" width="150" height="40" rx="7" ry="7" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="466.3515625" y="255.60000000000002" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,511) scale(1,-1)">T07 Revisar</text>
+			<text x="445.24853515625" y="242.40000000000003" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,484) scale(1,-1)">respaldo y atribución</text>
+			<path d="M 376,252 L 421,252 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="421 252, 414 255, 414 249" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<polygon points="468 192, 496 211, 524 192, 496 173" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="487.99609375" y="189.0" style="font-family: Body; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,378) scale(1,-1)">G3</text>
+			<path d="M 496,232 L 496,211 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="496 211, 499 218, 493 218" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<path d="M 468,192 L 404,192 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 404,192 L 404,417 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 404,417 L 184,417 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 184,417 L 184,433 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="184 433, 181 426, 187 426" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="431.6083984375" y="200.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,400) scale(1,-1)">No</text>
+			<rect x="421" y="117" width="150" height="35" rx="7" ry="7" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="452.8916015625" y="131.5" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,263) scale(1,-1)">T08 Validar gasto</text>
+			<path d="M 496,173 L 496,152 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="496 152, 499 159, 493 159" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="505.27587890625" y="158.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,316) scale(1,-1)">Sí</text>
+			<rect x="421" y="55" width="150" height="40" rx="7" ry="7" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="438.838134765625" y="78.6" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,157) scale(1,-1)">T09 Registrar ingresos,</text>
+			<text x="455.031982421875" y="65.39999999999999" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,130) scale(1,-1)">ticketing y pagos</text>
+			<path d="M 496,117 L 496,95 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="496 95, 499 102, 493 102" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<rect x="226" y="55" width="150" height="40" rx="7" ry="7" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="263.703125" y="78.6" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,157) scale(1,-1)">T10 Consolidar</text>
+			<text x="256.0654296875" y="65.39999999999999" style="font-family: Body; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,130) scale(1,-1)">y revisar resultado</text>
+			<path d="M 421,75 L 376,75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="376 75, 383 72, 383 78" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<ellipse cx="108.0" cy="75.0" rx="10.0" ry="10.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.4; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 226,75 L 118,75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="118 75, 125 72, 125 78" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="149.07470703125" y="25.0" style="font-family: Body; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,50) scale(1,-1)">G1 integridad · G2 identidad económica · G3 revisión independiente</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="10000" height="5700" preserveAspectRatio="xMinYMin meet" viewBox="0 0 10000 5700" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="10000" height="5700"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-5700)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="10000" height="5700" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 2701.884062,4438.479394 L 2385.7257,4276.887342 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 2746.049884,4435.956453 L 2644.976181,4280.976775 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 2795.151895,4435.956453 L 2896.225598,4280.976775 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 2839.317717,4438.479394 L 3155.476079,4276.887342 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 3489.028571,3048 L 3313.476318,3816.041108 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="3474.0501107039872" y="3149.159011242621" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6298) scale(1,-1)">(1,1)</text>
+			<path d="M 3110.971429,4702 L 3286.523682,3933.958892 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="3072.4708853897628" y="4582.840988757379" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,9165) scale(1,-1)">(0,N)</text>
+			<polygon points="3155 3875, 3300 3940, 3445 3875, 3300 3810" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3250.021728515625" y="3866.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7732) scale(1,-1)">Alberga</text>
+			<path d="M 2304,3552 L 2778.556851,3332.973761 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="2358.966794864511" y="3467.2203129090008" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6934) scale(1,-1)">(1,1)</text>
+			<path d="M 3396,3048 L 2921.443149,3267.026239 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="3287.554201229239" y="3114.7796870909992" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6229) scale(1,-1)">(0,N)</text>
+			<polygon points="2705 3300, 2850 3365, 2995 3300, 2850 3235" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="2805.66455078125" y="3291.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6582) scale(1,-1)">Asigna</text>
+			<path d="M 2296.571429,2248 L 2254.498807,2837.016706 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 2302.556181,2248.427482 L 2260.483559,2837.444189 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="2298.299638519899" y="2346.226810231804" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4692) scale(1,-1)">(1,1)</text>
+			<path d="M 2203.428571,3552 L 2245.501193,2962.983294 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="2148.221357573851" y="3435.773189768196" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6871) scale(1,-1)">(0,N)</text>
+			<polygon points="2105 2900, 2250 2965, 2395 2900, 2250 2835" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<polygon points="2114 2900, 2250 2957, 2386 2900, 2250 2843" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: none; fill-rule: evenodd;"/>
+			<text x="2191.964599609375" y="2891.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5782) scale(1,-1)">Identifica</text>
+			<path d="M 2360,2152 L 2747.928177,1841.657459 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="2394.4249940302384" y="2050.0766116762793" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4100) scale(1,-1)">(1,1)</text>
+			<path d="M 3240,1448 L 2852.071823,1758.342541 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="3152.0960020635116" y="1531.9233883237202" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3063) scale(1,-1)">(0,N)</text>
+			<polygon points="2655 1800, 2800 1865, 2945 1800, 2800 1735" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="2745.207275390625" y="1791.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3582) scale(1,-1)">Clasifica</text>
+			<path d="M 4910,3000 L 4445,3000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="4779.298095703125" y="3026.0" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6052) scale(1,-1)">(1,1)</text>
+			<path d="M 3690,3000 L 4155,3000 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="3767.222900390625" y="2956.0" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5912) scale(1,-1)">(0,N)</text>
+			<polygon points="4155 3000, 4300 3065, 4445 3000, 4300 2935" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4255.66455078125" y="2991.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5982) scale(1,-1)">Asigna</text>
+			<path d="M 5228,3048 L 5821.04712,3270.39267 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="5312.901979803469" y="3043.0964401518645" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6086) scale(1,-1)">(1,1)</text>
+			<path d="M 6572,3552 L 5978.95288,3329.60733 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="6433.619016290281" y="3538.9035598481355" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7077) scale(1,-1)">(0,N)</text>
+			<polygon points="5755 3300, 5900 3365, 6045 3300, 5900 3235" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5852.443115234375" y="3291.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6582) scale(1,-1)">Vincula</text>
+			<path d="M 5046,2952 L 4248.610315,2243.209169 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="4918.567382882294" y="2899.401123076787" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5798) scale(1,-1)">(1,1)</text>
+			<path d="M 3354,1448 L 4151.389685,2156.790831 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="3427.9536132114567" y="1482.5988769232135" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2965) scale(1,-1)">(0,N)</text>
+			<polygon points="4055 2200, 4200 2265, 4345 2200, 4200 2135" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4145.207275390625" y="2191.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4382) scale(1,-1)">Clasifica</text>
+			<path d="M 5152,1348 L 4564.880952,1935.119048 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="5076.8006210200665" y="1437.994949366116" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2875) scale(1,-1)">(0,1)</text>
+			<path d="M 3548,2952 L 4475.119048,2024.880952 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="3569.720375073683" y="2844.0050506338835" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5688) scale(1,-1)">(0,N)</text>
+			<polygon points="4375 1980, 4520 2045, 4665 1980, 4520 1915" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4475.66455078125" y="1971.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3942) scale(1,-1)">Asigna</text>
+			<path d="M 5197.176471,1348 L 5153.725296,2086.66996 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="5200.248357047581" y="1445.8740799516763" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2891) scale(1,-1)">(0,1)</text>
+			<path d="M 5102.823529,2952 L 5146.274704,2213.33004 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="5046.272639046169" y="2836.125920048324" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5672) scale(1,-1)">(0,N)</text>
+			<polygon points="5005 2150, 5150 2215, 5295 2150, 5150 2085" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5075.850341796875" y="2141.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4282) scale(1,-1)">Documenta</text>
+			<path d="M 6438.909091,1948 L 5852.674651,2408.612774 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="6352.267515353478" y="2031.3924048116346" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4062) scale(1,-1)">(1,1)</text>
+			<path d="M 5161.090909,2952 L 5747.325349,2491.387226 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="5194.253480740272" y="2850.6075951883654" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5701) scale(1,-1)">(0,N)</text>
+			<polygon points="5655 2450, 5800 2515, 5945 2450, 5800 2385" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5766.135986328125" y="2441.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4882) scale(1,-1)">Paga</text>
+			<path d="M 5329.846154,4252 L 4507.395833,3689.270833 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="5197.723050072327" y="4212.5939430065855" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8425) scale(1,-1)">(1,1)</text>
+			<path d="M 3570.153846,3048 L 4392.604167,3610.729167 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="3648.7979460214233" y="3069.406056993415" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6138) scale(1,-1)">(0,N)</text>
+			<polygon points="4305 3650, 4450 3715, 4595 3650, 4450 3585" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4405.66455078125" y="3641.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7282) scale(1,-1)">Asigna</text>
+			<path d="M 5489.142857,4252 L 5984.126344,3985.47043 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="5539.296924531584" y="4162.403030084047" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8324) scale(1,-1)">(1,1)</text>
+			<path d="M 6610.857143,3648 L 6115.873656,3914.52957 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="6507.224071562166" y="3719.596969915953" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7439) scale(1,-1)">(0,N)</text>
+			<polygon points="5905 3950, 6050 4015, 6195 3950, 6050 3885" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="6002.443115234375" y="3941.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7882) scale(1,-1)">Vincula</text>
+			<path d="M 5365.241379,4252 L 4175.534111,2609.070916 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="5249.607970483521" y="4178.483920663297" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8356) scale(1,-1)">(1,1)</text>
+			<path d="M 3334.758621,1448 L 4104.465889,2510.929084 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="3396.9130256102294" y="1503.5160793367031" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3007) scale(1,-1)">(0,N)</text>
+			<polygon points="3995 2560, 4140 2625, 4285 2560, 4140 2495" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4085.207275390625" y="2551.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5102) scale(1,-1)">Clasifica</text>
+			<path d="M 8310,3240.5 L 6130.449827,3131.522491 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="8177.681283527914" y="3261.212882081616" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6522) scale(1,-1)">(1,1)</text>
+			<path d="M 3690,3009.5 L 5869.550173,3118.477509 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="3979.077079899621" y="3071.4114160603267" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6142) scale(1,-1)">(0,N)</text>
+			<polygon points="5855 3125, 6000 3190, 6145 3125, 6000 3060" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5955.66455078125" y="3116.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6232) scale(1,-1)">Asigna</text>
+			<path d="M 8440.923077,3202 L 8151.555556,2966.888889 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="8311.658460735687" y="3153.95176436915" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6307) scale(1,-1)">(1,1)</text>
+			<path d="M 7759.076923,2648 L 8048.444444,2883.111111 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="7834.862535358063" y="2678.04823563085" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5356) scale(1,-1)">(0,N)</text>
+			<polygon points="7955 2925, 8100 2990, 8245 2925, 8100 2860" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="8048.41455078125" y="2916.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5832) scale(1,-1)">Reporta</text>
+			<path d="M 6712,1248 L 4885.410095,2244.321767 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="6610.878885120935" y="1320.005818773463" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2640) scale(1,-1)">(1,1)</text>
+			<path d="M 3588,2952 L 4754.589905,2315.678233 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="3635.6421109728153" y="2861.994181226536" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5723) scale(1,-1)">(0,N)</text>
+			<polygon points="4675 2280, 4820 2345, 4965 2280, 4820 2215" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4775.66455078125" y="2271.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4542) scale(1,-1)">Asigna</text>
+			<path d="M 6830.857143,1248 L 7217.562141,1849.541109 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="6891.3760322863645" y="1308.3972242185655" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2616) scale(1,-1)">(1,1)</text>
+			<path d="M 7669.142857,2552 L 7282.437859,1950.458891 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="7555.1449638073855" y="2473.602775781434" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4947) scale(1,-1)">(0,N)</text>
+			<polygon points="7105 1900, 7250 1965, 7395 1900, 7250 1835" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="7198.41455078125" y="1891.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3782) scale(1,-1)">Reporta</text>
+			<path d="M 8110,1847.5 L 5513.08642,2496.728395 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="7990.9218800641365" y="1897.9212281339014" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3795) scale(1,-1)">(1,1)</text>
+			<path d="M 3690,2952.5 L 5326.91358,2543.271605 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="3755.599116029613" y="2884.0787718660986" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5768) scale(1,-1)">(0,N)</text>
+			<polygon points="5275 2520, 5420 2585, 5565 2520, 5420 2455" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5375.66455078125" y="2511.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5022) scale(1,-1)">Asigna</text>
+			<path d="M 8264,1848 L 8036.483871,2151.354839 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="8203.298095703125" y="1944.0" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3888) scale(1,-1)">(1,1)</text>
+			<path d="M 7736,2552 L 7963.516129,2248.645161 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="7743.222900390625" y="2438.0" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4876) scale(1,-1)">(0,N)</text>
+			<polygon points="7855 2200, 8000 2265, 8145 2200, 8000 2135" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="7948.41455078125" y="2191.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4382) scale(1,-1)">Reporta</text>
+			<path d="M 8180,1752 L 7626.626016,1530.650407 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="8043.809369487779" y="1736.5006631638034" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3473) scale(1,-1)">(0,1)</text>
+			<path d="M 6920,1248 L 7473.373984,1469.349593 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="7002.711626605971" y="1245.4993368361975" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2490) scale(1,-1)">(0,N)</text>
+			<polygon points="7405 1500, 7550 1565, 7695 1500, 7550 1435" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="7505.671630859375" y="1491.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2982) scale(1,-1)">Imputa</text>
+			<path d="M 3526.666667,3048 L 3971.088957,3847.960123 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="3580.4775794953016" y="3113.789011401509" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6227) scale(1,-1)">(0,N)</text>
+			<path d="M 4473.333333,4752 L 4028.911043,3952.039877 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="4363.968221285948" y="4668.210988598491" style="font-family: Body; font-size: 25px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,9336) scale(1,-1)">(0,N)</text>
+			<polygon points="3855 3900, 4000 3965, 4145 3900, 4000 3835" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3941.964599609375" y="3891.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7782) scale(1,-1)">Presenta</text>
+			<path d="M 6890,3622.352941 L 7460.883698,3689.515729 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 6890.701047,3616.394038 L 7461.584745,3683.556826 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 7502.181818,4752 L 7546.593352,3774.946253 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 7693.454545,2648 L 7560.161872,3625.479606 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="7455 3640, 7645 3640, 7550 3785" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="7525.82275390625" y="3691" style="font-family: Body; font-size: 30px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7382) scale(1,-1)">ISA</text>
+			<text x="7459.20458984375" y="3581" style="font-family: Body; font-size: 27px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7162) scale(1,-1)">Total y disjunta</text>
+			<path d="M 3466.390038,2952 L 3279.683991,2685.35613 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="3253.36213236905" cy="2647.7646209557333" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3146.955638228425" y="2638.7646209557333" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5277) scale(1,-1)">codigo_proyecto</text>
+			<path d="M 3146.955638,2629.764621 L 3359.768627,2629.764621 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 3416.861561,2952 L 3189.424157,2820.688954 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="3127.6090763726916" cy="2785.0" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3078.4450138726916" y="2776.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5552) scale(1,-1)">nombre</text>
+			<path d="M 3310,2966.497874 L 3214.683336,2949.690974 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="3076.5326662047505" cy="2925.33128360322" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3011.2401857360005" y="2916.33128360322" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5832) scale(1,-1)">tipo_show</text>
+			<path d="M 3517.470571,2952 L 3633.278442,2633.820489 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="3647.0686616300377" cy="2595.9321730620595" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3569.6834077237877" y="2586.9321730620595" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5173) scale(1,-1)">fecha_show</text>
+			<path d="M 3310,3016.622846 L 3237.922457,3022.928814 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="3071.6362798205496" cy="3037.476969381493" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3003.1082036486746" y="3028.476969381493" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6056) scale(1,-1)">aforo_plan</text>
+			<path d="M 3459.723218,3048 L 3254.998305,3291.981651 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="3223.601327834788" cy="3329.3991105411606" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3180.065927444163" y="3320.3991105411606" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6640) scale(1,-1)">estado</text>
+			<path d="M 3679.138439,3048 L 3929.521584,3115.089961 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4040.9184627218783" cy="3144.9386652574117" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<ellipse cx="4040.9184627218783" cy="3144.9386652574117" rx="173.0" ry="31.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: none; fill-rule: evenodd;"/>
+			<text x="3918.3977107687533" y="3135.9386652574117" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6271) scale(1,-1)">causas_desviacion</text>
+			<path d="M 3500,3048 L 3500,3522 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="3500.0" cy="3560.0" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd; stroke-dasharray: 9, 6;"/>
+			<text x="3405.686279296875" y="3551.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7102) scale(1,-1)">resultado_final</text>
+			<path d="M 5091.536305,3048 L 5032.027071,3385.493634 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5025.33128360322" cy="3423.4673337952495" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4970.510238681345" y="3414.4673337952495" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6828) scale(1,-1)">id_gasto</text>
+			<path d="M 4970.510239,3405.467334 L 5080.152329,3405.467334 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 5148,3048 L 5366.875413,3266.875413 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5404.055915910215" cy="3304.0559159102154" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5304.91358192584" y="3295.0559159102154" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6590) scale(1,-1)">fecha_incurrido</text>
+			<path d="M 4920.861561,2952 L 4796.048774,2918.556514 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4684.6518946957" cy="2888.707810605916" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4617.752236492575" y="2879.707810605916" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5759) scale(1,-1)">monto_clp</text>
+			<path d="M 5290,2983.377154 L 5362.077543,2977.071186 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5528.363720179451" cy="2962.523030618507" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5461.449901820076" y="2953.523030618507" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5907) scale(1,-1)">tipo_gasto</text>
+			<path d="M 5231.878916,2952 L 5413.75589,2885.802195 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5504.0678269379405" cy="2852.9313383699623" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5371.0685593598155" y="2843.9313383699623" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5687) scale(1,-1)">referencia_contrato?</text>
+			<path d="M 5052,3048 L 4642.205756,3457.794244 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4605.025253169417" cy="3494.974746830583" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4531.682723872542" y="3485.974746830583" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6971) scale(1,-1)">descripcion</text>
+			<path d="M 5016.861561,3048 L 4555.597298,3314.311046 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4493.782217350893" cy="3350.0" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4450.246816960268" y="3341.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6682) scale(1,-1)">estado</text>
+			<path d="M 4968.121084,3048 L 4532.527103,3206.543243 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4442.215165449864" cy="3239.4141003279683" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4347.087235762364" y="3230.4141003279683" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6460) scale(1,-1)">preparado_por</text>
+			<path d="M 5066.390038,2952 L 4805.119054,2578.866364 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4778.797195643414" cy="2541.2748551981645" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4686.904861659039" y="2532.2748551981645" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5064) scale(1,-1)">revisado_por?</text>
+			<path d="M 5122.382768,2952 L 5378.198334,2403.401748 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5395.83278321849" cy="2365.584549074345" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5294.269062515365" y="2356.584549074345" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4713) scale(1,-1)">fecha_revision?</text>
+			<path d="M 5031.448896,2952 L 4332.807358,2462.805929 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4280.847955711008" cy="2426.423563648954" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4159.934381492258" y="2417.423563648954" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4834) scale(1,-1)">motivo_anulacion?</text>
+			<path d="M 5148,2952 L 5769.926278,2330.073722 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5807.106781186548" cy="2292.893218813452" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd; stroke-dasharray: 9, 6;"/>
+			<text x="5728.907318295923" y="2283.893218813452" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4567) scale(1,-1)">saldo_gasto</text>
+			<path d="M 6748,3552 L 6966.875413,3333.124587 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="7004.055915910216" cy="3295.9440840897846" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="6911.356453019591" y="3286.9440840897846" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6573) scale(1,-1)">id_contraparte</text>
+			<path d="M 6911.356453,3277.944084 L 7096.755379,3277.944084 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 6708.463695,3552 L 6790.547192,3086.481358 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="6797.2429794934815" cy="3048.5076583131636" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="6748.0789169934815" y="3039.5076583131636" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6079) scale(1,-1)">nombre</text>
+			<path d="M 6802.936332,3552 L 7015.474726,3452.891719 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="7089.712348425759" cy="3418.274147451499" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="7011.527045691384" y="3409.274147451499" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6818) scale(1,-1)">identificador</text>
+			<path d="M 6659.723218,3552 L 6454.998305,3308.018349 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="6423.601327834788" cy="3270.6008894588394" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="6397.001474319163" y="3261.6008894588394" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6523) scale(1,-1)">pais</text>
+			<path d="M 7510,2633.502126 L 7414.683336,2650.309026 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="7276.53266620475" cy="2674.66871639678" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="7195.1259279235" y="2665.66871639678" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5331) scale(1,-1)">razon_social</text>
+			<path d="M 7517.470571,4752 L 7633.278442,4433.820489 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="7647.068661630037" cy="4395.9321730620595" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="7590.654599130037" y="4386.9321730620595" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8773) scale(1,-1)">nombres</text>
+			<path d="M 7466.390038,4752 L 7279.683991,4485.35613 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="7253.36213236905" cy="4447.764620955733" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="7196.12678080655" y="4438.764620955733" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8877) scale(1,-1)">apellidos</text>
+			<path d="M 3127.712813,4702 L 3293.221861,4415.32992 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="3315.0" cy="4377.609076372692" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3252.12890625" y="4368.609076372692" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8737) scale(1,-1)">id_recinto</text>
+			<path d="M 3252.128906,4359.609076 L 3377.871094,4359.609076 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 3077.617232,4702 L 2935.908597,4398.104851 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="2918.274147451499" cy="4360.287651574241" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="2869.110084951499" y="4351.287651574241" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8702) scale(1,-1)">nombre</text>
+			<path d="M 3168.551104,4702 L 3400.275977,4539.744498 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="3452.2353790442667" cy="4503.36213236905" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3377.2715118567667" y="4494.36213236905" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8988) scale(1,-1)">tipo_recinto</text>
+			<path d="M 3279.138439,4702 L 3403.951226,4668.556514 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="3515.348105304299" cy="4638.707810605916" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3449.241415851174" y="4629.707810605916" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,9259) scale(1,-1)">capacidad</text>
+			<path d="M 3042.795828,4702 L 2814.518875,4510.452894 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="2770.6008894588394" cy="4473.601327834788" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="2712.5725691463394" y="4464.601327834788" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8929) scale(1,-1)">direccion</text>
+			<ellipse cx="2320.6008894588394" cy="4243.601327834788" rx="135.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="2290.7796003963394" y="4234.601327834788" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8469) scale(1,-1)">calle</text>
+			<ellipse cx="2620.6008894588394" cy="4243.601327834788" rx="135.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="2571.4368269588394" y="4234.601327834788" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8469) scale(1,-1)">numero</text>
+			<ellipse cx="2920.6008894588394" cy="4243.601327834788" rx="135.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="2869.0154402400894" y="4234.601327834788" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8469) scale(1,-1)">comuna</text>
+			<ellipse cx="3220.6008894588394" cy="4243.601327834788" rx="135.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3177.8726179744644" y="4234.601327834788" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8469) scale(1,-1)">ciudad</text>
+			<path d="M 4452,4752 L 4233.124587,4533.124587 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4195.944084089784" cy="4495.944084089784" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4137.108634871034" y="4486.944084089784" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8973) scale(1,-1)">id_artista</text>
+			<path d="M 4137.108635,4477.944084 L 4254.779533,4477.944084 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 4491.536305,4752 L 4432.027071,4414.506366 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4425.33128360322" cy="4376.53266620475" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4318.145980868845" y="4367.53266620475" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8735) scale(1,-1)">nombre_artistico</text>
+			<path d="M 4397.063668,4752 L 4184.525274,4652.891719 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4110.287651574241" cy="4618.274147451499" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4051.438042199241" y="4609.274147451499" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,9218) scale(1,-1)">tipo_acto</text>
+			<path d="M 2166.390038,3648 L 1979.683991,3914.64387 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="1953.3621323690504" cy="3952.2353790442667" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="1887.2696030721754" y="3943.2353790442667" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7886) scale(1,-1)">id_version</text>
+			<path d="M 1887.269603,3934.235379 L 2019.454662,3934.235379 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 2116.861561,3648 L 1889.424157,3779.311046 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="1827.6090763726913" cy="3815.0" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="1778.4450138726913" y="3806.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7612) scale(1,-1)">numero</text>
+			<path d="M 2010,3633.502126 L 1914.683336,3650.309026 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="1776.5326662047505" cy="3674.66871639678" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="1700.7616701110005" y="3665.66871639678" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7331) scale(1,-1)">fecha_corte</text>
+			<path d="M 2217.470571,3648 L 2333.278442,3966.179511 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="2347.0686616300377" cy="4004.0678269379405" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="2303.5332612394127" y="3995.0678269379405" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7990) scale(1,-1)">estado</text>
+			<path d="M 2010,3583.377154 L 1937.922457,3577.071186 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="1771.6362798205494" cy="3562.523030618507" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="1676.5083501330494" y="3553.523030618507" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7107) scale(1,-1)">preparado_por</text>
+			<path d="M 2068.121084,3552 L 1886.24411,3485.802195 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="1795.9321730620595" cy="3452.9313383699623" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="1704.8328078276845" y="3443.9313383699623" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6887) scale(1,-1)">validado_por?</text>
+			<path d="M 2257.204172,3648 L 2485.481125,3839.547106 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="2529.3991105411606" cy="3876.398672165212" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="2413.3141496036606" y="3867.398672165212" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7734) scale(1,-1)">fecha_validacion?</text>
+			<path d="M 2216.861561,2152 L 1989.424157,2020.688954 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="1927.6090763726916" cy="1985.0" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="1867.9523380914416" y="1976.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3952) scale(1,-1)">nro_linea</text>
+			<path d="M 1867.952338,1967 L 1987.265815,1967 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; stroke-dasharray: 9, 6;"/>
+			<path d="M 2110,2166.497874 L 2014.683336,2149.690974 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="1876.5326662047505" cy="2125.33128360322" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="1803.1901369078755" y="2116.33128360322" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4232) scale(1,-1)">descripcion</text>
+			<path d="M 2266.390038,2152 L 2079.683991,1885.35613 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="2053.36213236905" cy="1847.7646209557333" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="1986.462474165925" y="1838.7646209557333" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3677) scale(1,-1)">monto_clp</text>
+			<path d="M 3300,1352 L 3300,1008 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="3300.0" cy="970.0" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3221.00048828125" y="961.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1922) scale(1,-1)">id_categoria</text>
+			<path d="M 3221.000488,952 L 3378.999512,952 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 3348,1352 L 3566.875413,1133.124587 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="3604.0559159102154" cy="1095.9440840897842" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3561.3276444258404" y="1086.9440840897842" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2173) scale(1,-1)">codigo</text>
+			<path d="M 3252,1352 L 3033.124587,1133.124587 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="2995.9440840897846" cy="1095.9440840897842" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="2946.7800215897846" y="1086.9440840897842" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2173) scale(1,-1)">nombre</text>
+			<path d="M 3402.936332,1352 L 3615.474726,1252.891719 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="3689.7123484257595" cy="1218.2741474514996" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3621.9984812382595" y="1209.2741474514996" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2418) scale(1,-1)">naturaleza</text>
+			<path d="M 5222.382768,1252 L 5364.091403,948.104851 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5381.7258525485" cy="910.287651574241" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5314.02614551725" y="901.287651574241" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1802) scale(1,-1)">id_registro</text>
+			<path d="M 5314.026146,892.287652 L 5449.42556,892.287652 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 5257.204172,1252 L 5485.481125,1060.452894 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5529.399110541161" cy="1023.6013278347882" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5489.085145697411" y="1014.6013278347882" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2029) scale(1,-1)">fuente</text>
+			<path d="M 5331.878916,1252 L 5513.75589,1185.802195 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5604.0678269379405" cy="1152.9313383699628" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5536.3539597504405" y="1143.9313383699628" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2287) scale(1,-1)">id_externo</text>
+			<path d="M 5172.287187,1252 L 5006.778139,965.32992 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4985.0" cy="927.6090763726916" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4925.34326171875" y="918.6090763726916" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1837) scale(1,-1)">nro_linea</text>
+			<path d="M 5390,1283.377154 L 5462.077543,1277.071186 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5628.363720179451" cy="1262.5230306185067" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5518.728710413826" y="1253.5230306185067" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2507) scale(1,-1)">codigo_recibido?</text>
+			<path d="M 5390,1333.502126 L 5485.316664,1350.309026 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5623.467333795249" cy="1374.66871639678" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5508.189501763999" y="1365.66871639678" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2731) scale(1,-1)">fecha_documento</text>
+			<path d="M 5131.448896,1252 L 4899.724023,1089.744498 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4847.764620955733" cy="1053.3621323690504" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4684.929904158858" y="1044.3621323690504" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2088) scale(1,-1)">monto_documentado_clp</text>
+			<path d="M 5302.936332,1348 L 5515.474726,1447.108281 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5589.712348425759" cy="1481.7258525485013" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5445.427436316384" y="1472.7258525485013" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2945) scale(1,-1)">referencia_documento</text>
+			<path d="M 5020.861561,1252 L 4896.048774,1218.556514 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4784.6518946957" cy="1188.7078106059162" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4741.116494305075" y="1179.7078106059162" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2359) scale(1,-1)">estado</text>
+			<path d="M 5010,1300 L 4950,1300 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4770.0" cy="1300.0" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4683.75048828125" y="1291.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2582) scale(1,-1)">observacion?</text>
+			<path d="M 5240.276782,1348 L 5445.001695,1591.981651 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5476.398672165212" cy="1629.3991105411606" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5394.977773727712" y="1620.3991105411606" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3240) scale(1,-1)">cargado_por</text>
+			<path d="M 5020.861561,1348 L 4896.048774,1381.443486 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4784.6518946957" cy="1411.2921893940838" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4692.759560711325" y="1402.2921893940838" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2804) scale(1,-1)">revisado_por?</text>
+			<path d="M 6368.121084,1948 L 6186.24411,2014.197805 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="6095.9321730620595" cy="2047.0686616300377" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="6044.3254836089345" y="2038.0686616300377" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4076) scale(1,-1)">id_pago</text>
+			<path d="M 6044.325484,2029.068662 L 6147.538863,2029.068662 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 6310,1916.622846 L 6237.922457,1922.928814 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="6071.636279820549" cy="1937.4769693814928" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5995.844043492424" y="1928.4769693814928" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3856) scale(1,-1)">fecha_pago</text>
+			<path d="M 6310,1866.497874 L 6214.683336,1849.690974 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="6076.532666204751" cy="1825.33128360322" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="6009.633008001626" y="1816.33128360322" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3632) scale(1,-1)">monto_clp</text>
+			<path d="M 6397.063668,1852 L 6184.525274,1752.891719 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="6110.287651574241" cy="1718.2741474514992" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="6045.809380089866" y="1709.2741474514992" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3418) scale(1,-1)">referencia</text>
+			<path d="M 6482.529429,1948 L 6322.258939,2388.339551 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="6308.468719737625" cy="2426.227867640109" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="6214.969208018875" y="2417.227867640109" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4834) scale(1,-1)">registrado_por</text>
+			<path d="M 5395.800544,4348 L 5365.847033,4690.3702 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5362.523030618507" cy="4728.363720179451" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5295.616292337257" y="4719.363720179451" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,9438) scale(1,-1)">id_ingreso</text>
+			<path d="M 5295.616292,4710.36372 L 5429.429769,4710.36372 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 5352,4348 L 5133.124587,4566.875413 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5095.944084089784" cy="4604.055915910216" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5060.472892683534" y="4595.055915910216" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,9190) scale(1,-1)">fecha</text>
+			<path d="M 5448,4348 L 5666.875413,4566.875413 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5704.055915910215" cy="4604.055915910216" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5558.15674598834" y="4595.055915910216" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,9190) scale(1,-1)">monto_reconocido_clp</text>
+			<path d="M 5297.063668,4348 L 5084.525274,4447.108281 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5010.28765157424" cy="4481.7258525485" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4951.43804219924" y="4472.7258525485" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8945) scale(1,-1)">concepto</text>
+			<path d="M 5502.936332,4348 L 5715.474726,4447.108281 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="5789.712348425759" cy="4481.725852548501" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5746.176948035134" y="4472.725852548501" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8945) scale(1,-1)">estado</text>
+			<path d="M 5210,4333.502126 L 5114.683336,4350.309026 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4976.53266620475" cy="4374.66871639678" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4883.033154486" y="4365.66871639678" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8731) scale(1,-1)">registrado_por</text>
+			<path d="M 6795.800544,1152 L 6765.847033,809.6298 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="6762.523030618507" cy="771.6362798205491" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="6674.652181009132" y="762.6362798205491" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1525) scale(1,-1)">id_liquidacion</text>
+			<path d="M 6674.652181,753.63628 L 6850.39388,753.63628 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 6752,1152 L 6533.124587,933.124587 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="6495.944084089784" cy="895.9440840897842" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="6460.472892683534" y="886.9440840897842" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1773) scale(1,-1)">fecha</text>
+			<path d="M 6848,1152 L 7066.875413,933.124587 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="7104.055915910216" cy="895.9440840897842" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="7014.570808488341" y="886.9440840897842" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,1773) scale(1,-1)">neto_final_clp</text>
+			<path d="M 6697.063668,1152 L 6484.525274,1052.891719 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="6410.287651574241" cy="1018.2741474514996" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="6345.809380089866" y="1009.2741474514996" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2018) scale(1,-1)">referencia</text>
+			<path d="M 8479.138439,1752 L 8603.951226,1718.556514 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="8715.3481053043" cy="1688.7078106059162" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="8621.8627537418" y="1679.7078106059162" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3359) scale(1,-1)">id_movimiento</text>
+			<path d="M 8621.862754,1670.707811 L 8808.833457,1670.707811 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 8490,1800 L 8550,1800 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="8730.0" cy="1800.0" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="8694.52880859375" y="1791.0" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3582) scale(1,-1)">fecha</text>
+			<path d="M 8368.551104,1752 L 8600.275977,1589.744498 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="8652.235379044267" cy="1553.3621323690504" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="8628.856961075517" y="1544.3621323690504" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3088) scale(1,-1)">tipo</text>
+			<path d="M 8479.138439,1848 L 8603.951226,1881.443486 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="8715.3481053043" cy="1911.2921893940838" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="8648.448447101175" y="1902.2921893940838" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3804) scale(1,-1)">monto_clp</text>
+			<path d="M 8327.712813,1752 L 8493.221861,1465.32992 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="8515.0" cy="1427.6090763726916" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="8450.521728515625" y="1418.6090763726916" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2837) scale(1,-1)">referencia</text>
+			<path d="M 8631.878916,3298 L 8813.75589,3364.197805 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="8904.06782693794" cy="3397.0686616300377" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="8808.946977328565" y="3388.0686616300377" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6776) scale(1,-1)">id_corte_venta</text>
+			<path d="M 8808.946977,3379.068662 L 8999.188677,3379.068662 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 8690,3266.622846 L 8762.077543,3272.928814 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="8928.36372017945" cy="3287.4769693814933" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="8877.578319788825" y="3278.4769693814933" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6556) scale(1,-1)">instante</text>
+			<path d="M 8557.204172,3298 L 8785.481125,3489.547106 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="8829.39911054116" cy="3526.398672165212" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="8686.72137616616" y="3517.398672165212" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7034) scale(1,-1)">entradas_acumuladas</text>
+			<path d="M 8690,3216.497874 L 8785.316664,3199.690974 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="8923.46733379525" cy="3175.33128360322" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="8784.818163873375" y="3166.33128360322" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6332) scale(1,-1)">bruto_acumulado_clp</text>
+			<path d="M 8602.936332,3202 L 8815.474726,3102.891719 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="8889.712348425759" cy="3068.274147451499" rx="180.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="8721.712348425759" y="3059.274147451499" style="font-family: Body; font-size: 24.272592592592595px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6118) scale(1,-1)">neto_estimado_acumulado_clp</text>
+			<rect x="3310" y="2952" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3451.6572265625" y="2991" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5982) scale(1,-1)">Evento</text>
+			<rect x="4910" y="2952" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5058.9072265625" y="2991" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5982) scale(1,-1)">Gasto</text>
+			<rect x="6510" y="3552" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="6617.821533203125" y="3591" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7182) scale(1,-1)">Contraparte</text>
+			<rect x="7510" y="2552" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="7608.150146484375" y="2591" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,5182) scale(1,-1)">Organizacion</text>
+			<rect x="7310" y="4752" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="7388.793212890625" y="4791" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,9582) scale(1,-1)">Persona Natural</text>
+			<rect x="2910" y="4702" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3046.82861328125" y="4741" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,9482) scale(1,-1)">Recinto</text>
+			<rect x="4310" y="4752" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4454.071533203125" y="4791" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,9582) scale(1,-1)">Artista</text>
+			<rect x="2010" y="3552" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="2054.95751953125" y="3591" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,7182) scale(1,-1)">Version Presupuesto</text>
+			<rect x="2110" y="2152" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="2117" y="2159" width="366" height="82" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2; fill: none; fill-rule: evenodd;"/>
+			<text x="2170.271728515625" y="2191" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4382) scale(1,-1)">Linea Presupuesto</text>
+			<rect x="3110" y="1352" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3233.12158203125" y="1391" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2782) scale(1,-1)">Categoria</text>
+			<rect x="5010" y="1252" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5090.4287109375" y="1291" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2582) scale(1,-1)">Registro Origen</text>
+			<rect x="6310" y="1852" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="6419.4287109375" y="1891" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3782) scale(1,-1)">Pago Gasto</text>
+			<rect x="5210" y="4252" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="5347.628662109375" y="4291" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8582) scale(1,-1)">Ingreso</text>
+			<rect x="6610" y="1152" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="6718.642822265625" y="1191" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,2382) scale(1,-1)">Liquidacion</text>
+			<rect x="8110" y="1752" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="8151.736083984375" y="1791" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,3582) scale(1,-1)">Movimiento Ticketera</text>
+			<rect x="8310" y="3202" width="380" height="96" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="8418.62158203125" y="3241" style="font-family: Bold; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6482) scale(1,-1)">Corte Venta</text>
+			<path d="M 3950.568182,3942.840909 L 3742.920598,4122.802148 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="3700.0" cy="4160.0" rx="210.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="3585.08203125" y="4151.0" style="font-family: Body; font-size: 26px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8302) scale(1,-1)">orden_presentacion</text>
+			<path d="M 4049.431818,3942.840909 L 4257.079402,4122.802148 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<ellipse cx="4300.0" cy="4160.0" rx="210.0" ry="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="4161.24658203125" y="4151.0" style="font-family: Body; font-size: 26px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,8302) scale(1,-1)">honorario_estimado_clp</text>
+			<text x="4354.3671875" y="171" style="font-family: Body; font-size: 32px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,342) scale(1,-1)">Chen · 16 entidades · 21 relaciones · ISA total y disjunta · cardinalidades (mínimo,máximo)</text>
+			<text x="4189.975341796875" y="101" style="font-family: Body; font-size: 29px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,202) scale(1,-1)">Clave subrayada · clave parcial discontinua · atributo multivaluado doble · atributo derivado discontinuo · dirección compuesta</text>
+		</g>
+	</g>
+</svg>
